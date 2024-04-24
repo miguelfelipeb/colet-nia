@@ -237,6 +237,7 @@
 - [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN)
 - [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Site com os principais conteúdos referentes a desenvolvimento web criado e mantido por um dos professores do site Frontend Masters (EN)
 - [4noobs](https://github.com/he4rt/4noobs) - Repositório desenvolvido para mostrar os conhecimentos básicos em diversas linguagens e ferramentas para desenvolvedores iniciantes.
+- [Comunidade Ada](https://comunidade.ada.tech/) - Plataforma com cursos, teste e programas gratuitos.
 
 ## 🎨 Sites para desenvolvedor front-end
 
