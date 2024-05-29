@@ -294,9 +294,7 @@
 ## 🔎 Sites para buscar vagas remotas
 
 - [BairesDev](https://www.bairesdev.com)
-- [Bergamot](https://bergamot.io)
 - [Coodesh](https://coodesh.com)
-- [Há Vagas](https://havagas.pt)
 - [Hired](https://hired.com)
 - [JustRemote](https://justremote.co)
 - [Programathor](https://programathor.com.br/)
@@ -319,7 +317,6 @@
 - [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
 - [DevDocs](https://devdocs.io/) - DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável.
 - [HTML Validator](https://www.freeformatter.com/html-validator.html) - Validação de arquivo HTML
-- [HTML 5 Test](https://html5test.com/index.html) - Testa arquivos HTML5
 - [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker
 - [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
 - [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
@@ -976,6 +973,7 @@
 - [Octotree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
 - [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
+- [Faker Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=pt-BR)
 
 ## 📚 Recomendação de livros
 
