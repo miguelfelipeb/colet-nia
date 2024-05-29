@@ -294,9 +294,7 @@
 ## 🔎 Sites para buscar vagas remotas
 
 - [BairesDev](https://www.bairesdev.com)
-- [Bergamot](https://bergamot.io)
 - [Coodesh](https://coodesh.com)
-- [Há Vagas](https://havagas.pt)
 - [Hired](https://hired.com)
 - [JustRemote](https://justremote.co)
 - [Programathor](https://programathor.com.br/)
