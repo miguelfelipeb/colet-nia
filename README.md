@@ -317,7 +317,6 @@
 - [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
 - [DevDocs](https://devdocs.io/) - DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável.
 - [HTML Validator](https://www.freeformatter.com/html-validator.html) - Validação de arquivo HTML
-- [HTML 5 Test](https://html5test.com/index.html) - Testa arquivos HTML5
 - [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker
 - [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
 - [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
