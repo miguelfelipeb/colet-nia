@@ -102,7 +102,7 @@
 [🧵 Sites de paletas de cores](#-sites-de-paletas-de-cores) <br>
 [🎇 Lista de ilustrações](#-lista-de-ilustrações) <br>
 [🎆 Sites de icones](#-sites-de-icones) <br>
-[🎥 Canais do youtube com conteúdo grautito](#-canais-do-youtube-com-conteúdo-gratuito) <br>
+[🎥 Canais do youtube com conteúdo gratuito](#-canais-do-youtube-com-conteúdo-gratuito) <br>
 [🔓 Pentest](#-pentest) <br>
 [🎙 Blogs e Podcasts](#-blogs-e-podcasts) <br>
 [💼 Business](#-business) <br>
